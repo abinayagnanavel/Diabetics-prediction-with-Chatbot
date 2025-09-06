@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter / Logs
+.ipynb_checkpoints
+*.log
+
+# Datasets
+*.csv
+*.xlsx
+*.json
+
+# Environment
+.env
+.venv/
+env/
+venv/
